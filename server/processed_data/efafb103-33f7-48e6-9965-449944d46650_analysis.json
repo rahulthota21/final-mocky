@@ -1,0 +1,162 @@
+[
+    {
+        "filename": "resume_1763444321.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "Java",
+                "OOPs",
+                "DBMS/SQL",
+                "DSA",
+                "Git",
+                "Machine Learning",
+                "JavaScript",
+                "Express.js",
+                "MongoDB",
+                "Node.js"
+            ],
+            "Overall Analysis": "The candidate has a strong foundation in computer science and programming, with experience in machine learning, data analysis, and software development. They demonstrate a growth mindset, adaptability, and excellent communication skills.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                "Diamond Clarity Prediction Using Machine Learning",
+                "Secure Share \u2013 Secure File Sharing System"
+            ],
+            "Soft Skills": [
+                "Team Collaboration",
+                "Communication",
+                "Problem-Solving",
+                "Adaptability",
+                "Ethical Conduct"
+            ],
+            "Overall Match Score": 8,
+            "Projects Relevance Score": 9,
+            "Experience Relevance Score": 7,
+            "Certifications Relevance Score": 0,
+            "Final Score": 660
+        }
+    },
+    {
+        "filename": "resume_1763444322.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "Java",
+                "C/C++",
+                "JavaScript",
+                "React.js",
+                "Next.js",
+                "Node.js",
+                "Express.js",
+                "MongoDB"
+            ],
+            "Overall Analysis": "The candidate has a strong foundation in programming languages and web development, with hands-on experience in projects related to full-stack development. However, the candidate lacks experience in industries and has limited exposure to cloud platforms, containerization, and automated testing.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                "Job Portal (MERN Stack)",
+                "Dynamic Blog Website (Next.js)"
+            ],
+            "Soft Skills": [
+                "Teamwork",
+                "Problem-solving",
+                "Communication"
+            ],
+            "Overall Match Score": 7,
+            "Projects Relevance Score": 8,
+            "Experience Relevance Score": 4,
+            "Certifications Relevance Score": 0,
+            "Final Score": 520
+        }
+    },
+    {
+        "filename": "resume_1763444323.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "Java",
+                "C++",
+                "Data Structures",
+                "SQL",
+                "JavaScript"
+            ],
+            "Overall Analysis": "The candidate has a strong foundation in programming languages and data structures, but lacks experience in software development and relevant projects.",
+            "Certifications & Courses": [
+                "Data Science Training",
+                "Corizo Virtual Training"
+            ],
+            "Relevant Projects": [],
+            "Soft Skills": [
+                "Communication",
+                "Collaboration"
+            ],
+            "Overall Match Score": 4,
+            "Projects Relevance Score": 2,
+            "Experience Relevance Score": 3,
+            "Certifications Relevance Score": 5,
+            "Final Score": 290
+        }
+    },
+    {
+        "filename": "resume_1763444325.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "C++",
+                "JavaScript",
+                "Git",
+                "Machine Learning",
+                "Deep Learning",
+                "HTML",
+                "CSS"
+            ],
+            "Overall Analysis": "The candidate has a strong foundation in computer science and programming, with experience in machine learning, deep learning, and web development. However, the candidate lacks direct experience in software engineering and system design.",
+            "Certifications & Courses": [
+                "HTML, CSS and JavaScript - Udemy",
+                "JavaScript - Digital Garage (Google)"
+            ],
+            "Relevant Projects": [
+                "Driver's Drowsiness Detection in ADAS",
+                "Malware Detection using CNN in Emails",
+                "AI Driven - Post Office Identification System"
+            ],
+            "Soft Skills": [
+                "Communication",
+                "Collaboration",
+                "Problem-solving"
+            ],
+            "Overall Match Score": 7,
+            "Projects Relevance Score": 8,
+            "Experience Relevance Score": 6,
+            "Certifications Relevance Score": 5,
+            "Final Score": 680
+        }
+    },
+    {
+        "filename": "resume_1763444326.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "Web Security",
+                "Penetration Testing",
+                "Static Analysis",
+                "OWASP Top 10",
+                "Burp Suite",
+                "Nmap"
+            ],
+            "Overall Analysis": "The candidate has a strong background in cybersecurity and web security research, but lacks direct experience in software development and engineering. However, their skills in penetration testing, static analysis, and secure coding practices can be valuable in a software engineering role.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                "FlowVault: A Secure and High-Performance Peer-to-Peer File Sharing System"
+            ],
+            "Soft Skills": [
+                "Team collaboration",
+                "Communication",
+                "Problem-solving"
+            ],
+            "Overall Match Score": 6,
+            "Projects Relevance Score": 4,
+            "Experience Relevance Score": 5,
+            "Certifications Relevance Score": 2,
+            "Final Score": 390
+        }
+    }
+]

@@ -1,0 +1,188 @@
+[
+    {
+        "filename": "resume_1763444325.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "Machine Learning",
+                "Deep Learning",
+                "CNN",
+                "NumPy",
+                "Pandas",
+                "scikit-learn",
+                "PyTorch",
+                "TensorFlow",
+                "LLMs",
+                "Transformers",
+                "MLOps",
+                "Docker",
+                "CI/CD",
+                "MLFlow",
+                "Kubernetes",
+                "Cloud ML services",
+                "Probability",
+                "Statistics",
+                "Linear Algebra",
+                "Optimization"
+            ],
+            "Overall Analysis": "The candidate has a strong foundation in computer science and machine learning, with relevant projects and skills that align with the job description. However, the candidate lacks direct experience with some of the required technologies and tools.",
+            "Certifications & Courses": [
+                "HTML, CSS and JavaScript \u2013 Udemy",
+                "JavaScript \u2013 Digital Garage (Google)"
+            ],
+            "Relevant Projects": [
+                "Driver\u2019s Drowsiness Detection in ADAS",
+                "Malware Detection using CNN in Emails",
+                "AI Driven - Post Office Identification System"
+            ],
+            "Soft Skills": [
+                "Teamwork",
+                "Communication",
+                "Problem-solving",
+                "Time management"
+            ],
+            "Overall Match Score": 7,
+            "Projects Relevance Score": 8,
+            "Experience Relevance Score": 6,
+            "Certifications Relevance Score": 5,
+            "Final Score": 895,
+            "Relative Ranking Score": 100.0
+        }
+    },
+    {
+        "filename": "resume_1763444321.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "Machine Learning",
+                "PyCaret",
+                "Kaggle",
+                "Logistic Regression",
+                "Random Forest",
+                "SVM",
+                "JavaScript",
+                "Express.js",
+                "MongoDB",
+                "Node.js",
+                "Postman",
+                "AES-256 encryption",
+                "RSA key exchange",
+                "JWT authentication",
+                "bcrypt hashing"
+            ],
+            "Overall Analysis": "The candidate has a strong foundation in computer science and machine learning, with experience in developing scalable ML models and secure file-sharing systems. However, the candidate's experience in deep learning, generative AI, and cloud ML platforms is limited.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                "Diamond Clarity Prediction Using Machine Learning",
+                "Secure Share \u2013 Secure File Sharing System"
+            ],
+            "Soft Skills": [
+                "problem-solving",
+                "data analysis",
+                "scalable AI solutions",
+                "version control",
+                "SDLC participation",
+                "software validation/testing practices",
+                "growth mindset",
+                "adaptability",
+                "ethical conduct",
+                "excellent communication skills"
+            ],
+            "Overall Match Score": 6,
+            "Projects Relevance Score": 7,
+            "Experience Relevance Score": 5,
+            "Certifications Relevance Score": 0,
+            "Final Score": 575,
+            "Relative Ranking Score": 60.0
+        }
+    },
+    {
+        "filename": "resume_1763444323.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "Data Science",
+                "Machine Learning",
+                "C++ Programming",
+                "Data Structures"
+            ],
+            "Overall Analysis": "The candidate has a basic understanding of programming and data science concepts, but lacks experience in building and deploying machine learning models and AI systems.",
+            "Certifications & Courses": [
+                "Data Science training from Corizo"
+            ],
+            "Relevant Projects": [
+                "Minor and major projects on industry standard problems during internship at Corizo"
+            ],
+            "Soft Skills": [
+                "Collaboration",
+                "Problem-solving"
+            ],
+            "Overall Match Score": 4,
+            "Projects Relevance Score": 6,
+            "Experience Relevance Score": 2,
+            "Certifications Relevance Score": 3,
+            "Final Score": 525,
+            "Relative Ranking Score": 53.75
+        }
+    },
+    {
+        "filename": "resume_1763444322.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "Java",
+                "C",
+                "C++",
+                "React.js",
+                "Next.js",
+                "Node.js",
+                "Express.js",
+                "MongoDB"
+            ],
+            "Overall Analysis": "The candidate has a strong foundation in programming languages and web development, but lacks experience in machine learning and AI. The candidate's projects are focused on web development and do not demonstrate experience with ML models or AI systems.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                "Job Portal",
+                "Dynamic Blog Website"
+            ],
+            "Soft Skills": [
+                "Teamwork",
+                "Problem-solving"
+            ],
+            "Overall Match Score": 2,
+            "Projects Relevance Score": 1,
+            "Experience Relevance Score": 1,
+            "Certifications Relevance Score": 0,
+            "Final Score": 95,
+            "Relative Ranking Score": 0.0
+        }
+    },
+    {
+        "filename": "resume_1763444326.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "Web Security",
+                "Penetration Testing",
+                "CTF Competitions",
+                "Cybersecurity"
+            ],
+            "Overall Analysis": "The candidate's background is predominantly in cybersecurity and web security research, which does not directly align with the job description's requirements for machine learning and AI. However, their experience with Python and problem-solving skills could be valuable in certain aspects of the role.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                "FlowVault: A Secure and High-Performance Peer-to-Peer File Sharing System"
+            ],
+            "Soft Skills": [
+                "Problem-solving",
+                "Teamwork",
+                "Communication"
+            ],
+            "Overall Match Score": 2,
+            "Projects Relevance Score": 1,
+            "Experience Relevance Score": 1,
+            "Certifications Relevance Score": 0,
+            "Final Score": 95,
+            "Relative Ranking Score": 0.0
+        }
+    }
+]

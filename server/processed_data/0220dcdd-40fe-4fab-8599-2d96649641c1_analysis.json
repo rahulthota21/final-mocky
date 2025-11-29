@@ -1,0 +1,164 @@
+[
+    {
+        "filename": "resume_1763444321.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "Machine Learning",
+                "PyCaret",
+                "Kaggle",
+                "Logistic Regression",
+                "Random Forest",
+                "SVM",
+                "JavaScript",
+                "Express.js",
+                "MongoDB",
+                "Node.js",
+                "Postman"
+            ],
+            "Overall Analysis": "The candidate has a strong foundation in computer science and machine learning, with experience in developing scalable ML models and secure software solutions. However, the candidate's experience in LLMs, transformers, and modern AI stacks is limited.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                "Diamond Clarity Prediction Using Machine Learning",
+                "Secure Share \u2013 Secure File Sharing System"
+            ],
+            "Soft Skills": [
+                "Collaboration",
+                "Communication",
+                "Problem-solving",
+                "Adaptability",
+                "Ethical conduct"
+            ],
+            "Overall Match Score": 6,
+            "Projects Relevance Score": 7,
+            "Experience Relevance Score": 5,
+            "Certifications Relevance Score": 0,
+            "Final Score": 0
+        }
+    },
+    {
+        "filename": "resume_1763444322.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "Java",
+                "C",
+                "C++",
+                "Javascript",
+                "React.js",
+                "Next.js",
+                "Node.js",
+                "Express.js",
+                "MongoDB",
+                "MERN Stack"
+            ],
+            "Overall Analysis": "The candidate has a strong foundation in programming languages and web development, but lacks experience in machine learning and AI. The candidate's projects demonstrate full-stack development skills, but are not directly related to machine learning or AI.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                "Job Portal",
+                "Dynamic Blog Website"
+            ],
+            "Soft Skills": [
+                "Teamwork",
+                "Problem-solving"
+            ],
+            "Overall Match Score": 2,
+            "Projects Relevance Score": 1,
+            "Experience Relevance Score": 1,
+            "Certifications Relevance Score": 0,
+            "Final Score": 0
+        }
+    },
+    {
+        "filename": "resume_1763444323.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "Machine Learning",
+                "Data Science"
+            ],
+            "Overall Analysis": "The candidate has some relevant skills and education, but lacks direct experience in building and deploying machine learning models and AI systems. The internship experience is a good start, but more hands-on experience is required.",
+            "Certifications & Courses": [
+                "Data Science training from Corizo"
+            ],
+            "Relevant Projects": [
+                "Minor and major projects on industry standard problems during internship"
+            ],
+            "Soft Skills": [],
+            "Overall Match Score": 4,
+            "Projects Relevance Score": 2,
+            "Experience Relevance Score": 1,
+            "Certifications Relevance Score": 1,
+            "Final Score": 0
+        }
+    },
+    {
+        "filename": "resume_1763444325.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "Machine Learning",
+                "Deep Learning",
+                "CNN",
+                "NumPy",
+                "Pandas",
+                "scikit-learn",
+                "PyTorch",
+                "TensorFlow",
+                "LLMs",
+                "Transformers",
+                "MLOps",
+                "Docker",
+                "CI/CD",
+                "MLFlow",
+                "Kubernetes",
+                "Cloud ML",
+                "AWS",
+                "GCP",
+                "Azure",
+                "Data Pipelines",
+                "ETL Tools"
+            ],
+            "Overall Analysis": "The candidate has a strong foundation in computer science and machine learning, with relevant projects and skills that align with the job description. However, the candidate lacks direct experience with some of the required technologies and tools, such as Docker, CI/CD, and Kubernetes.",
+            "Certifications & Courses": [
+                "HTML, CSS and JavaScript \u2013 Udemy",
+                "JavaScript \u2013 Digital Garage (Google)"
+            ],
+            "Relevant Projects": [
+                "Driver\u2019s Drowsiness Detection in ADAS",
+                "Malware Detection using CNN in Emails",
+                "AI Driven - Post Office Identification System"
+            ],
+            "Soft Skills": [
+                "Teamwork",
+                "Communication",
+                "Problem-solving",
+                "Time management"
+            ],
+            "Overall Match Score": 7,
+            "Projects Relevance Score": 8,
+            "Experience Relevance Score": 6,
+            "Certifications Relevance Score": 5,
+            "Final Score": 0
+        }
+    },
+    {
+        "filename": "resume_1763444326.pdf",
+        "analysis": {
+            "Key Skills": [],
+            "Overall Analysis": "The candidate lacks experience in machine learning, AI, and data science, with a background in cybersecurity and web development. The skills required for the job are not met.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [],
+            "Soft Skills": [
+                "problem-solving",
+                "teamwork",
+                "communication"
+            ],
+            "Overall Match Score": 2,
+            "Projects Relevance Score": 1,
+            "Experience Relevance Score": 1,
+            "Certifications Relevance Score": 1,
+            "Final Score": 0
+        }
+    }
+]

@@ -1,0 +1,155 @@
+[
+    {
+        "filename": "resume_1763444321.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "Machine Learning",
+                "PyCaret",
+                "Kaggle",
+                "Logistic Regression",
+                "Random Forest",
+                "SVM",
+                "JavaScript",
+                "Express.js",
+                "MongoDB",
+                "Node.js",
+                "Postman"
+            ],
+            "Overall Analysis": "The candidate has a strong foundation in computer science and machine learning, with experience in Python, ML models, and data analysis. However, the candidate lacks experience in deep learning, LLMs, and cloud ML platforms, which are required for the job.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                "Diamond Clarity Prediction Using Machine Learning"
+            ],
+            "Soft Skills": [
+                "Problem-solving",
+                "Data analysis",
+                "Scalable AI solutions",
+                "Communication skills",
+                "Team collaboration"
+            ],
+            "Overall Match Score": 6,
+            "Projects Relevance Score": 7,
+            "Experience Relevance Score": 5,
+            "Certifications Relevance Score": 0,
+            "Final Score": 325
+        }
+    },
+    {
+        "filename": "resume_1763444322.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "Java",
+                "C",
+                "C++",
+                "Javascript",
+                "React.js",
+                "Next.js",
+                "Node.js",
+                "Express.js",
+                "MongoDB"
+            ],
+            "Overall Analysis": "The candidate has a strong foundation in programming languages and web development, but lacks experience in machine learning and AI. The candidate's projects are focused on web development and do not demonstrate expertise in ML/AI.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [],
+            "Soft Skills": [
+                "teamwork",
+                "problem-solving"
+            ],
+            "Overall Match Score": 2,
+            "Projects Relevance Score": 1,
+            "Experience Relevance Score": 1,
+            "Certifications Relevance Score": 0,
+            "Final Score": 55
+        }
+    },
+    {
+        "filename": "resume_1763444323.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "Data Science",
+                "Machine Learning",
+                "Data Structures",
+                "Database Management System (DBMS)"
+            ],
+            "Overall Analysis": "The candidate has some relevant skills, but lacks direct experience in machine learning and AI. The internship experience is limited, and the skills mentioned are mostly theoretical.",
+            "Certifications & Courses": [
+                "Data Science Training (Corizo, Virtual)"
+            ],
+            "Relevant Projects": [
+                "Minor and major projects on industry standard problems (details not specified)"
+            ],
+            "Soft Skills": [],
+            "Overall Match Score": 4,
+            "Projects Relevance Score": 2,
+            "Experience Relevance Score": 1,
+            "Certifications Relevance Score": 3,
+            "Final Score": 140
+        }
+    },
+    {
+        "filename": "resume_1763444325.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "Machine Learning",
+                "Deep Learning",
+                "CNN",
+                "NumPy",
+                "Pandas"
+            ],
+            "Overall Analysis": "The candidate has a strong foundation in machine learning and deep learning, with experience in building and optimizing ML models. However, the candidate lacks experience with specific technologies mentioned in the job description, such as scikit-learn, PyTorch, and TensorFlow.",
+            "Certifications & Courses": [
+                "HTML, CSS and JavaScript - Udemy",
+                "JavaScript - Digital Garage (Google)"
+            ],
+            "Relevant Projects": [
+                "Driver's Drowsiness Detection in ADAS",
+                "Malware Detection using CNN in Emails",
+                "AI Driven - Post Office Identification System"
+            ],
+            "Soft Skills": [
+                "Collaboration",
+                "Communication",
+                "Problem-solving"
+            ],
+            "Overall Match Score": 6,
+            "Projects Relevance Score": 8,
+            "Experience Relevance Score": 5,
+            "Certifications Relevance Score": 4,
+            "Final Score": 430
+        }
+    },
+    {
+        "filename": "resume_1763444326.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "Penetration testing",
+                "Web Security",
+                "CTF competitions",
+                "OWASP Top 10",
+                "Burp Suite",
+                "Nmap"
+            ],
+            "Overall Analysis": "The candidate has a strong background in computer science and cybersecurity, but lacks direct experience in machine learning and AI. However, their skills in programming, problem-solving, and data analysis could be transferable.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                "FlowVault: A Secure and High-Performance Peer-to-Peer File Sharing System"
+            ],
+            "Soft Skills": [
+                "Team-oriented",
+                "Problem-solving",
+                "Time management",
+                "Communication"
+            ],
+            "Overall Match Score": 2,
+            "Projects Relevance Score": 1,
+            "Experience Relevance Score": 1,
+            "Certifications Relevance Score": 0,
+            "Final Score": 55
+        }
+    }
+]

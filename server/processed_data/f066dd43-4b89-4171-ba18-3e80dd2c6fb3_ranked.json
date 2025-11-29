@@ -1,0 +1,162 @@
+[
+    {
+        "filename": "resume_1763444325.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "Machine Learning",
+                "Deep Learning",
+                "CNN",
+                "NumPy",
+                "Pandas",
+                "scikit-learn",
+                "PyTorch",
+                "TensorFlow",
+                "LLMs",
+                "Transformers",
+                "MLOps",
+                "Docker",
+                "CI/CD",
+                "MLFlow",
+                "Kubernetes",
+                "Cloud ML services",
+                "Probability",
+                "Statistics",
+                "Linear Algebra",
+                "Optimization"
+            ],
+            "Overall Analysis": "The candidate has a strong foundation in computer science and machine learning, with relevant projects and skills that align with the job description. However, the candidate lacks direct experience with some of the required skills and tools, such as AWS/GCP/Azure ML services and Docker.",
+            "Certifications & Courses": [
+                "HTML, CSS and JavaScript \u2013 Udemy",
+                "JavaScript \u2013 Digital Garage (Google)"
+            ],
+            "Relevant Projects": [
+                "Driver\u2019s Drowsiness Detection in ADAS",
+                "Malware Detection using CNN in Emails",
+                "AI Driven - Post Office Identification System"
+            ],
+            "Soft Skills": [
+                "Teamwork",
+                "Communication",
+                "Problem-solving",
+                "Leadership"
+            ],
+            "Overall Match Score": 7,
+            "Projects Relevance Score": 8,
+            "Experience Relevance Score": 6,
+            "Certifications Relevance Score": 5,
+            "Final Score": 480,
+            "Relative Ranking Score": 100.0
+        }
+    },
+    {
+        "filename": "resume_1763444321.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "Machine Learning",
+                "PyCaret",
+                "Kaggle",
+                "JavaScript",
+                "Express.js",
+                "MongoDB",
+                "Node.js",
+                "Postman"
+            ],
+            "Overall Analysis": "The candidate has a strong foundation in computer science, with experience in machine learning, data analysis, and software development. However, there is limited direct experience with the required skills for the job, such as LLMs, transformers, and modern AI stacks.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                "Diamond Clarity Prediction Using Machine Learning"
+            ],
+            "Soft Skills": [
+                "Team collaboration",
+                "Problem-solving",
+                "Communication",
+                "Adaptability",
+                "Growth mindset"
+            ],
+            "Overall Match Score": 6,
+            "Projects Relevance Score": 7,
+            "Experience Relevance Score": 5,
+            "Certifications Relevance Score": 2,
+            "Final Score": 365,
+            "Relative Ranking Score": 72.94
+        }
+    },
+    {
+        "filename": "resume_1763444323.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "Data Science",
+                "Machine Learning",
+                "C++ Programming",
+                "Data Structures"
+            ],
+            "Overall Analysis": "The candidate has some relevant skills and education, but lacks direct experience in machine learning and AI. The intern experience and training in data science are positive, but more hands-on experience is required.",
+            "Certifications & Courses": [
+                "Data Science training from Corizo"
+            ],
+            "Relevant Projects": [],
+            "Soft Skills": [],
+            "Overall Match Score": 4,
+            "Projects Relevance Score": 2,
+            "Experience Relevance Score": 3,
+            "Certifications Relevance Score": 5,
+            "Final Score": 240,
+            "Relative Ranking Score": 43.53
+        }
+    },
+    {
+        "filename": "resume_1763444322.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "Java",
+                "C",
+                "C++",
+                "React.js",
+                "Next.js",
+                "Node.js",
+                "Express.js",
+                "MongoDB"
+            ],
+            "Overall Analysis": "The candidate has a strong foundation in programming languages and web development, but lacks experience in machine learning, AI, and data science, which are the primary requirements for the job.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                "Job Portal",
+                "Dynamic Blog Website"
+            ],
+            "Soft Skills": [
+                "Teamwork",
+                "Problem-solving"
+            ],
+            "Overall Match Score": 2,
+            "Projects Relevance Score": 1,
+            "Experience Relevance Score": 1,
+            "Certifications Relevance Score": 0,
+            "Final Score": 55,
+            "Relative Ranking Score": 0.0
+        }
+    },
+    {
+        "filename": "resume_1763444326.pdf",
+        "analysis": {
+            "Key Skills": [],
+            "Overall Analysis": "The candidate lacks relevant experience and skills in machine learning and AI, but has a strong background in cybersecurity and web development.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [],
+            "Soft Skills": [
+                "team-oriented",
+                "problem-solving",
+                "communication"
+            ],
+            "Overall Match Score": 2,
+            "Projects Relevance Score": 1,
+            "Experience Relevance Score": 1,
+            "Certifications Relevance Score": 0,
+            "Final Score": 55,
+            "Relative Ranking Score": 0.0
+        }
+    }
+]

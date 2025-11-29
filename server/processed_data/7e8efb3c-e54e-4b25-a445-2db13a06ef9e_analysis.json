@@ -1,0 +1,167 @@
+[
+    {
+        "filename": "resume_1763444321.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "Machine Learning",
+                "PyCaret",
+                "Kaggle",
+                "JavaScript",
+                "Express.js",
+                "MongoDB",
+                "Node.js",
+                "Postman"
+            ],
+            "Overall Analysis": "The candidate has a strong foundation in computer science and programming, with experience in machine learning and data analysis. However, the candidate lacks direct experience with some of the required skills such as Docker, CI/CD, model registry, MLFlow, and Kubernetes.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                "Diamond Clarity Prediction Using Machine Learning"
+            ],
+            "Soft Skills": [
+                "Problem-solving",
+                "Data analysis",
+                "Scalable AI solutions",
+                "Communication skills",
+                "Team collaboration"
+            ],
+            "Overall Match Score": 6,
+            "Projects Relevance Score": 8,
+            "Experience Relevance Score": 5,
+            "Certifications Relevance Score": 0,
+            "Final Score": 350
+        }
+    },
+    {
+        "filename": "resume_1763444322.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "Java",
+                "C",
+                "C++",
+                "Javascript",
+                "React.js",
+                "Next.js",
+                "Node.js",
+                "Express.js",
+                "MongoDB"
+            ],
+            "Overall Analysis": "The candidate has a strong foundation in programming languages and web development, but lacks direct experience in machine learning and AI. However, their skills in Python and problem-solving can be beneficial for learning and adapting to ML/AI concepts.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                "Job Portal",
+                "Dynamic Blog Website"
+            ],
+            "Soft Skills": [
+                "Teamwork",
+                "Problem-solving"
+            ],
+            "Overall Match Score": 4,
+            "Projects Relevance Score": 2,
+            "Experience Relevance Score": 3,
+            "Certifications Relevance Score": 0,
+            "Final Score": 140
+        }
+    },
+    {
+        "filename": "resume_1763444323.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "Data Science",
+                "Machine Learning"
+            ],
+            "Overall Analysis": "The candidate has some relevant skills and education, but lacks direct experience in machine learning and AI. The internship experience is a good start, but more hands-on experience is required.",
+            "Certifications & Courses": [
+                "Data Science training from Corizo"
+            ],
+            "Relevant Projects": [
+                "Minor and major projects on industry standard problems during internship"
+            ],
+            "Soft Skills": [],
+            "Overall Match Score": 4,
+            "Projects Relevance Score": 6,
+            "Experience Relevance Score": 2,
+            "Certifications Relevance Score": 5,
+            "Final Score": 310
+        }
+    },
+    {
+        "filename": "resume_1763444325.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "Machine Learning",
+                "Deep Learning",
+                "CNN",
+                "NumPy",
+                "Pandas",
+                "scikit-learn",
+                "PyTorch",
+                "TensorFlow",
+                "LLMs",
+                "Transformers",
+                "MLOps",
+                "Docker",
+                "CI/CD",
+                "MLFlow",
+                "Kubernetes",
+                "Cloud Computing",
+                "AWS",
+                "GCP",
+                "Azure",
+                "Data Pipelines",
+                "ETL Tools"
+            ],
+            "Overall Analysis": "The candidate has a strong foundation in machine learning and deep learning, with experience in building and deploying models. They have also worked on projects that demonstrate their skills in computer vision, natural language processing, and generative AI. However, they lack experience in working with large datasets, structured and unstructured data, and cloud ML platforms.",
+            "Certifications & Courses": [
+                "HTML, CSS and JavaScript - Udemy",
+                "JavaScript - Digital Garage (Google)"
+            ],
+            "Relevant Projects": [
+                "Driver's Drowsiness Detection in ADAS",
+                "Malware Detection using CNN in Emails",
+                "AI Driven - Post Office Identification System"
+            ],
+            "Soft Skills": [
+                "Teamwork",
+                "Leadership",
+                "Communication",
+                "Problem-solving"
+            ],
+            "Overall Match Score": 7,
+            "Projects Relevance Score": 8,
+            "Experience Relevance Score": 6,
+            "Certifications Relevance Score": 5,
+            "Final Score": 480
+        }
+    },
+    {
+        "filename": "resume_1763444326.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "Web Security",
+                "Penetration Testing",
+                "CTF Competitions",
+                "Cybersecurity"
+            ],
+            "Overall Analysis": "The candidate has a strong background in cybersecurity and web security, but lacks direct experience in machine learning and AI. However, their skills in Python and problem-solving could be transferable to the field.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                "FlowVault: A Secure and High-Performance Peer-to-Peer File Sharing System"
+            ],
+            "Soft Skills": [
+                "Team-oriented",
+                "Problem-solving",
+                "Communication"
+            ],
+            "Overall Match Score": 2,
+            "Projects Relevance Score": 1,
+            "Experience Relevance Score": 1,
+            "Certifications Relevance Score": 0,
+            "Final Score": 55
+        }
+    }
+]
